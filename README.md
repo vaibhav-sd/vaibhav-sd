@@ -34,3 +34,20 @@ I love to code and solve problems using coding.
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/vaibhav-sd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<!-- STATISTICS ABOUT PROFILE -->
+
+ 📶 Stats:<br><br>
+ 
+ 
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamathawane&theme=dark&layout=compact&align=right&width=40%)](https://github.com/shubhamathawane/)
+ 
+ ---
+ 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/shubhamathawane/count.svg?align=center)
+
+
